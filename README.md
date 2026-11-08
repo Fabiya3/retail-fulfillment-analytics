@@ -18,3 +18,11 @@ An end-to-end business intelligence and data warehousing project built on the On
 - Isolated return and cancellation drag across international markets.
 - Tracked reorder intervals and segmented top customers into VIP tiers using RFM scoring.
 - Built executive reporting for revenue throughput, average order values, and YoY growth.
+
+## Executive Power BI Dashboards
+
+### 1. Executive Performance Summary
+![Executive Summary](docs/screenshots/executive_summary.png)
+
+### 2. Returns & Operational Drain Diagnostic
+![Returns Diagnostic](docs/screenshots/returns_diagnostic.png)
