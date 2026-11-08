@@ -1,0 +1,7 @@
+*.db 
+*.sqlite3 
+*.pyc 
+__pycache__/ 
+data/raw/ 
+data/processed/*.db 
+*.pbix
